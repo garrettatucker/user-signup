@@ -19,8 +19,8 @@ form = """
                 <input type="submit" value="submit">
                 <h3>Guidelines for signing up:</h3>
                 <ul>
-                    <li>Usernames must be between 3 and 25 characters in length.</li>
-                    <li>Passwords must be between 8 and 25 characters in length, and must match eachother.</li>
+                    <li>Usernames must be between 3 and 20 characters in length.</li>
+                    <li>Passwords must be between 8 and 20 characters in length, and must match eachother.</li>
                     <li>Emails must be in the correct email format, for example: name@email.com.</li>
                 </ul>
             </form>
